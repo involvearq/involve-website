@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Bash(sed -i '' '91s/    id: 4,/    id: 5,/' /Users/filipabaeta/Desktop/involve-website/data/projects.ts)",
+      "Bash(sed -i '' '114s/    id: 5,/    id: 6,/' /Users/filipabaeta/Desktop/involve-website/data/projects.ts)",
+      "Bash(sed -i '' '108s/    id: 5,/    id: 6,/' /Users/filipabaeta/Desktop/involve-website/data/projects.ts)",
+      "Bash(sed -i '' '131s/    id: 6,/    id: 7,/' /Users/filipabaeta/Desktop/involve-website/data/projects.ts)",
+      "Bash(sed -i '' '125s/    id: 6,/    id: 7,/' /Users/filipabaeta/Desktop/involve-website/data/projects.ts)",
+      "Bash(sed -i '' '148s/    id: 7,/    id: 8,/' /Users/filipabaeta/Desktop/involve-website/data/projects.ts)"
+    ]
+  }
+}
