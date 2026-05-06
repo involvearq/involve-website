@@ -47,7 +47,7 @@ export default function Home() {
       <section className="mx-auto max-w-7xl px-6 md:px-10 lg:px-16 py-24 md:py-32">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 md:gap-20 items-center">
           <div>
-            <p className="section-label mb-6">O estúdio</p>
+            <p className="section-label mb-6">O gabinete</p>
             <h2
               className="heading-display text-stone-900 text-4xl md:text-5xl lg:text-6xl leading-tight"
             >
@@ -57,7 +57,7 @@ export default function Home() {
           <div>
             <div className="divider" />
             <p className="text-stone-600 leading-relaxed text-base md:text-lg">
-              O involve arquitectos é um atelier fundado em Torres Vedras. Desenvolvemos projectos de habitação, reabilitação e espaços comerciais com um compromisso constante com o lugar, o programa e a materialidade.
+              A involve arquitectos é um atelier fundado em Torres Vedras. Desenvolvemos projectos de habitação, reabilitação e espaços comerciais com um compromisso constante com o lugar, o programa e a materialidade.
             </p>
             <p className="text-stone-500 leading-relaxed text-base mt-4">
               Cada projecto é uma oportunidade de criar espaços que transcendem a função e se tornam parte da memória de quem os habita.

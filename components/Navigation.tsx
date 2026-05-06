@@ -139,7 +139,6 @@ export default function Navigation() {
           <p className="text-stone-400 text-sm tracking-widest uppercase">
             involve arquitectos
           </p>
-          <p className="text-stone-500 text-sm mt-1">Lisboa, Portugal</p>
         </div>
       </div>
     </>
