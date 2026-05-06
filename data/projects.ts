@@ -53,8 +53,7 @@ export const projects: Project[] = [
     coverImage: `${h}/Apartamento PK/10.jpg`,
     coverImageAlt: "Apartamento PK",
     gallery: [
-      "02","03","04","05","07","08","10","12","13","14",
-      "15","16","18","19","20","23","28",
+      "05","07","08","10","13","20","23",
     ].map((n) => ({
       src: `${h}/Apartamento PK/${n}.jpg`,
       alt: `Apartamento PK — imagem ${n}`,
