@@ -279,11 +279,11 @@ export const projects: Project[] = [
     subcategory: "Reabilitação Habitação Unifamiliar · 2016",
     description: "",
     fullDescription: "",
-    coverImage: `${h}/Moradia MM/moradia-MM-02.jpg`,
+    coverImage: `${h}/Moradia MM/moradia-MM-29.jpg`,
     coverImageAlt: "Moradia MM",
-    gallery: Array.from({ length: 29 }, (_, i) => ({
-      src: `${h}/Moradia MM/moradia-MM-${String(i + 1).padStart(2, "0")}.jpg`,
-      alt: `Moradia MM — imagem ${i + 1}`,
+    gallery: Array.from({ length: 27 }, (_, i) => ({
+      src: `${h}/Moradia MM/moradia-MM-${String(i + 3).padStart(2, "0")}.jpg`,
+      alt: `Moradia MM — imagem ${i + 3}`,
     })),
   },
 
