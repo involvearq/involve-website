@@ -25,10 +25,10 @@ export default function ContactoPage() {
         <div>
           <p className="text-stone-400 text-xs tracking-widest uppercase mb-3">Telemóvel</p>
           <a
-            href="tel:+351987344400"
+            href="tel:+351969873444"
             className="text-stone-700 hover:text-stone-900 transition-colors duration-200"
           >
-            +351 987 344 44
+            +351 969 873 444
           </a>
         </div>
 

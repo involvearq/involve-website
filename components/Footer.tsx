@@ -28,10 +28,10 @@ export default function Footer() {
               involvearq@gmail.com
             </a>
             <a
-              href="tel:+3519873444"
+              href="tel:+351969873444"
               className="text-stone-400 hover:text-stone-900 text-sm transition-colors duration-200"
             >
-              +351 987 344 4
+              +351 969 873 444
             </a>
             <a
               href="https://www.instagram.com/involvearq/"
